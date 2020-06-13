@@ -1,0 +1,16 @@
+body{
+	background-color: lightgreen;
+}
+
+h1{
+	color: #ffffff; 
+	font-size: 40px;
+	font-family: arial;
+}
+
+.submit{
+	background-color: rgb(0,119,255);
+}
+
+/*#ffffff (hexa color) bisa dilihat diwebsite = http://www.color-hex.com/*/
+/*rgb(0,119,255) bisa dilihat diwebsite = https://www.rapidtables.com/web/color/RGB_Color.html*/
